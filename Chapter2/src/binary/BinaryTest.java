@@ -4,9 +4,9 @@ public class BinaryTest {
 
 	public static void main(String[] args) {
 		int num = 10;
-		int bNum = 0B1010; //2Áø¼ö 10
-		int oNum = 012; //8Áø¼ö 10
-		int hNum = 0XA; //16Áø¼ö 10
+		int bNum = 0B1010; //2ì§„ìˆ˜ 10
+		int oNum = 012; //8ì§„ìˆ˜ 10
+		int hNum = 0XA; //16ì§„ìˆ˜ 10
 		
 		System.out.println(num);
 		System.out.println(bNum);
