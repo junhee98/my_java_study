@@ -6,7 +6,7 @@ public class BinaryTest2 {
 		int num1 = 0B00000000000000000000000000000101; //2진수 5
 		int num2 = 0B11111111111111111111111111111011; //2진수 -5
 		
-		int sum = num1 + num2; //num1 과 num2 을 .
+		int sum = num1 + num2; //num1 과 num2 을 더한다.
 		System.out.println(num1);
 		System.out.println(num2);
 		System.out.println(sum);
