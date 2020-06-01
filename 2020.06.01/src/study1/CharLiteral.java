@@ -4,8 +4,8 @@ public class CharLiteral {
 
 	public static void main(String[] args) {
 		char a = 'W';
-		char b = '±Û';
-		char c = '\uae00';//±ÛÀÇ À¯´ÏÄÚµå °ª(ae00) »ç¿ë
+		char b = 'ê¸€';
+		char c = '\uae00';//ê¸€ì˜ ìœ ë‹ˆì½”ë“œ ê°’(ae00) ì‚¬ìš©
 		
 		System.out.println(a);
 		System.out.println(b);
