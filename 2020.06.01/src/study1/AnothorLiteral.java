@@ -3,9 +3,9 @@ package study1;
 public class AnothorLiteral {
 
 	public static void main(String[] args) {
-		//int n=null; ¿À·ù!
+		//int n=null; ì˜¤ë¥˜!
 		String str = null;
-		// "Good", "Moring", "ÀÚ¹Ù", "3.19", "26", "a"
+		// "Good", "Moring", "ìë°”", "3.19", "26", "a"
 		String str2 = "Good";
 		
 		System.out.println(str);
