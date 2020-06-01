@@ -4,9 +4,9 @@ public class Literal {
 
 	public static void main(String[] args) {
 		int n = 15;
-		int m = 015;//½ÊÁø¼ö 13
-		int k = 0x15;//½ÊÁø¼ö 21
-		int b = 0b0101;//½ÊÁø¼ö 5
+		int m = 015;//ì‹­ì§„ìˆ˜ 13
+		int k = 0x15;//ì‹­ì§„ìˆ˜ 21
+		int b = 0b0101;//ì‹­ì§„ìˆ˜ 5
 		
 		System.out.println(n);
 		System.out.println(m);
